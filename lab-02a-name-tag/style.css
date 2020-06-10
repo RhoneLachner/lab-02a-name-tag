@@ -1,0 +1,32 @@
+
+.nameTag{
+
+    border-style: dotted;
+    border-width: 7px ;
+    text-align: center;
+    background-color: lightsteelblue;
+    border-radius: 50px;
+    padding: 10px ;
+    width: 350px;
+    
+}
+.hello {
+    background-color:lightblue;
+}
+.myNameIs {
+    background-color: lightblue;
+}
+.name {
+    font-style: italic;
+    background-color: white;
+   font-family: 'Tangerine', cursive;
+    ;
+    font-size: 66px;
+}
+.pronouns {
+    background-color: lightblue;
+}
+
+.she {
+    background-color: lightblue;
+}
